@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fateh Singh</h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 <h2 align="left">About Me</h2>
-<p>Hello there! I'm Fateh Singh, a seasoned IT professional with 8 years of experience in the industry. Currently, I am thriving as a DevOps Engineer, specializing in orchestrating efficient workflows and optimizing infrastructure. I have a solid background in Ruby on Rails development for over 3 years and PHP development for 1.6 years.</p>
+<p>Hi 👋, I'm Fateh Singh, a seasoned IT professional with 8 years of experience in the industry. Currently, I am thriving as a DevOps Engineer, specializing in orchestrating efficient workflows and optimizing infrastructure. I have a solid background in Ruby on Rails development for over 3 years and PHP development for 1.6 years.</p>
 <h3 align="left">Projects</h3>
 <h4>Ruby on Rails</h4>
 <ul>
