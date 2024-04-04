@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fateh Singh</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-
+<h2 align="center">About Me</h2>
+<p>Hello there! I'm [Your Name], a seasoned IT professional with 8 years of experience in the industry. Currently, I am thriving as a DevOps Engineer, specializing in orchestrating efficient workflows and optimizing infrastructure. I have a solid background in Ruby on Rails development for over 3 years and PHP development for 1.6 years.</p>
 - 📫 How to reach me **fatehsingh.sunny5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
